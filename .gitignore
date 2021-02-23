@@ -24,7 +24,13 @@ hs_err_pid*
 
 # by myself
 /target
-*.idea
-*.DS_Store
 *.iml
 *.xml
+.idea
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
